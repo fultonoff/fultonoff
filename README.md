@@ -16,7 +16,7 @@ Skills: HTML/CSS/SCSS/JavaScript/Node.js
 
 
 
-(https://github-readme-stats.vercel.app/api?username=fultonoff&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fultonoff&show_icons=true&theme=radical)
 
 
 
