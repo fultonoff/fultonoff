@@ -4,7 +4,7 @@
 
 I enjoy learning languages and frameworks. I also enjoy building Website and web-apps
 
-Skills: HTML/CSS/SCSS/Tailwindcss/JavaScript/Reactjs
+Skills: HTML/CSS/SCSS/Tailwindcss/JavaScript/Reactjs/Nextjs
 
 - 🔭 I’m currently working on Web-app 
 - 👯 I’m looking to collaborate on Web development  
