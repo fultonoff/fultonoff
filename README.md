@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Next.js**
 
-- 💬 Ask me about **react, nextjs**
+- 💬 Ask me about **React, Nextjs**
 
 - 📫 How to reach me **fultonkilebe7@gmail.com**
 
