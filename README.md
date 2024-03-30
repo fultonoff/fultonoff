@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fultonoff&label=Profile%20views&color=0e75b6&style=flat" alt="fultonoff" /> </p>
 
 
-- 🌱 I’m currently learning **Appwrite**
+- 🌱 I’m currently learning **Supabase**
 
 - 👯 I’m looking to collaborate on **Next.js**
 
