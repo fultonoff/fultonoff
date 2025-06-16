@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Nextjs**
 
-- 📫 How to reach me **fultonkilebe7@gmail.com**
+- 📫 How to reach me **Fulton@kilebe.com**
 
 - ⚡ Fun fact **Learner**
 
